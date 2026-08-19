@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // Validação no console para conferir se os limites de caracteres estão corretos
+    // Validação no console do navegador para conferir as regras de limites de caracteres
     const titulo = document.getElementById("titulo").innerText;
     const subtitulo = document.getElementById("subtitulo").innerText;
     const corpoTexto = document.getElementById("corpo-texto").innerText;
